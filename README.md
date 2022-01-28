@@ -8,7 +8,7 @@ Built a Python Pipeline that **Scrapes, Summarizes and Calculate Sentiment Score
 3. The Sentiment Analysis is then done on the Summaries, and a sentiment score is generated via Transformers Pipeline classified as POSITIVE OR NEGATIVE.
 4. The Final Output Csv is present in the repository.
 
-The Scraping of News Articles are done from [Yahoo Finance.](https://finance.yahoo.com/)
+The Scraping of News Articles is done from [Yahoo Finance.](https://finance.yahoo.com/)
 
 
 
